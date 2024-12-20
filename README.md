@@ -1,11 +1,15 @@
-# Simple-Calculator
+# Simple Calculator
 Basic arithmetic operations.
 
-## How to run
-> Open this compile and run.
-> Input format: [num1] [operator] [num2]
-> After that, output will be like
-> [result]
-> Now you can enter another operator and number like this
-> [result] [another operator] [another number]
-> And it goes on forever.
+### How to run
+```pwsh
+> Input (order 1): [num1] [operator] [num2]  ↴
+> Input (roder 2): [result] [operator] [num] ↴
+```
+
+###  Example
+```pwsh
+> Input (roder 1): 10.1 - 3.1
+> Input (roder 2): 7.000000 * 2
+> Input (order 3): 14.000000 - ... [continues]
+```
