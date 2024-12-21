@@ -19,4 +19,4 @@ Basic arithmetic operations.
 ```c
 scanf("%*c %c %*c", &theSecond);
 ```
-> Just put a _'*'_ after the _'%'_ character.
+> Just put a __'*'__ after the __'%'__ character.
